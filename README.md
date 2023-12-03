@@ -20,5 +20,5 @@
 
 ## Let's Connect
 - **Email:** vinamariesolitario@gmail.com
-
+- **LinkedIn:** https://www.linkedin.com/in/vina-marie-solitario-35b865282/
 Feel free to reach out if you want to discuss coding, databases, or anything tech-related. I'm always up for a good conversation!
